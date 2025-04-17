@@ -18,3 +18,7 @@ This is the frontend of the Azure Resume project. It is a responsive web applica
 1. Clone the repository:
    ```bash
    git clone https://github.com/bombidoski/azure-resume.git
+   ```
+
+## Recent Updates
+- **Visitor Counter Logic**: Enhanced the JavaScript logic to fetch and display the visitor count dynamically from an API endpoint. Added error handling to ensure a default count is displayed in case of API failure.
